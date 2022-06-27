@@ -2547,6 +2547,7 @@
           "AutoMapper": "11.0.1",
           "Impodatos.Persistence.Database": "1.0.0",
           "Impodatos.Services.Common": "1.0.0",
+          "Microsoft.AspNetCore.Http.Features": "5.0.14",
           "Newtonsoft.Json": "13.0.1"
         },
         "compile": {
@@ -4989,6 +4990,7 @@
           "AutoMapper": "11.0.1",
           "Impodatos.Persistence.Database": "1.0.0",
           "Impodatos.Services.Common": "1.0.0",
+          "Microsoft.AspNetCore.Http.Features": "5.0.14",
           "Newtonsoft.Json": "13.0.1"
         },
         "runtime": {
